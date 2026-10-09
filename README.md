@@ -15,6 +15,9 @@ Mi piace ascoltare la musica
 Ho già avuto occasione di utilizzare o conoscere:
 - Html
 
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+Per adesso nulla di concreto
+
 ## 🔍 Cosa mi piacerebbe imparare
 Programmazione
 
